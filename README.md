@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏢 I`m working in Simulefrete as Fullstack Developer.<br><br>📚 I'm currently learning Multicloud and Devops in The Cloud Bootcamp.<br><br>🎮 In my free time I like to deepen my knowledge of game development using C# on the Godot and Unity Game Engines.</p>
+<p align="left">🏢 I`m working in Simulefrete as Fullstack Developer.<br><br>📚 I'm currently learning Multicloud and Devops in The Cloud Bootcamp.<br><br>🎮 In my free time I like to deepen my knowledge of game development using C# on the Godot and Unity Game Engines.<br><br>⚡️ Fun-Fact: I have a degree in Mechatronic Engineering</p>
 
 ###
 
@@ -77,7 +77,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ThiagoMLima25/ThiagoMLima25/output/snake.svg" alt="Snake animation" />
 
 ###
