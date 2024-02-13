@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate fullstack developer from Brazil, São Paulo with 5+ years of experience.</p>
+<p align="left">A full stack developer from Brazil, São Paulo with 5+ years of experience.</p>
 
 ###
 
@@ -73,9 +73,5 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<br clear="both">
 
 ###
