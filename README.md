@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏢 I`m working for [Simulefrete](https://simulefrete.com/) as Fullstack Developer.<br><br>📚 I'm currently learning Multicloud and Devops in The Cloud Bootcamp.<br><br>🎮 In my free time I like to deepen my knowledge of game development using C# on the Godot and Unity Game Engines.<br><br>⚡️ Fun-Fact: I have a degree in Mechatronic Engineering</p>
+<p align="left">🏢 I`m working for <a href='https://simulefrete.com/' target='_blank'>Simulefrete</a> as Fullstack Developer.<br><br>📚 I'm currently learning Multicloud and Devops in The Cloud Bootcamp.<br><br>🎮 In my free time I like to deepen my knowledge of game development using C# on the Godot and Unity Game Engines.<br><br>⚡️ Fun-Fact: I have a degree in Mechatronic Engineering</p>
 
 ###
 
